@@ -1,0 +1,11 @@
+# Table of contents
+
+format: jb-book
+options:
+root: index
+options:
+  numbered: true
+chapters:
+- file: content/01-overview
+- file: content/bibliography
+
