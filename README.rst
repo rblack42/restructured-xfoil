@@ -3,7 +3,7 @@ Restructured XFoil
 
 :Author: Roie R. Black
 :Email: roie.black@gmail.com
-:Docs: https://githb.io/restructured-xfoil/
+:Docs: https://rblack42.github.io/restructured-xfoil/
 
 This project presents a study of the aerodynamics of indoor model airplanes,
 with the goal of predicting how long they will fly. The code presented here was
